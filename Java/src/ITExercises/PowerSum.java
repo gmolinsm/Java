@@ -7,7 +7,7 @@ public class PowerSum {
 	public static void main(String[] args) {
 		int base;
 		int exp;
-		int sum = 0;
+		int sum;
 		int baseActual;
 		
 		Scanner scan = new Scanner(System.in);
